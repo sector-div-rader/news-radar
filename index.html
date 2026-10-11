@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>我嘅每日話題</title>
+<link rel="stylesheet" href="style.css">
+<link rel="alternate" type="application/rss+xml" href="feed.xml">
+</head>
+<body>
+<header>
+  <h1>我嘅每日話題</h1>
+  <nav>
+    <a href="index.html">主頁</a>
+    <a href="calendar.html">日曆</a>
+    <a href="trends.html">趨勢</a>
+    <a href="feed.xml">RSS</a>
+    <button id="theme-toggle">🌓</button>
+  </nav>
+</header>
+
+<main>
+  <div class="search-bar">
+    <input type="text" id="search" placeholder="搜尋標題或關鍵詞...">
+  </div>
+  <div id="results"></div>
+  <div id="list"></div>
+</main>
+
+<script src="lib/fuse.min.js"></script>
+<script src="app.js"></script>
+<script src="theme.js"></script>
+</body>
+</html>
