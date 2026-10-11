@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="zh-HK">
+<head>
+<meta charset="UTF-8">
+<title>趨勢 - 我嘅每日話題</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>趨勢分析</h1>
+  <nav>
+    <a href="index.html">主頁</a>
+    <a href="calendar.html">日曆</a>
+    <a href="trends.html">趨勢</a>
+    <button id="theme-toggle">🌓</button>
+  </nav>
+</header>
+<main>
+  <h2>關鍵詞趨勢</h2>
+  <canvas id="chart"></canvas>
+
+  <h2>熱門標籤</h2>
+  <div id="cloud" style="width:100%;height:300px;"></div>
+</main>
+<script src="lib/chart.umd.min.js"></script>
+<script src="lib/wordcloud2.min.js"></script>
+<script src="trends.js"></script>
+<script src="theme.js"></script>
+</body>
+</html>
