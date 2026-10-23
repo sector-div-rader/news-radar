@@ -1,0 +1,658 @@
+{
+  "date": "2026-10-23",
+  "items": [
+    {
+      "title": "Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta",
+      "url": "https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/",
+      "summary": "A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the \"billionaire's tax,\" should the measure be voted into law.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Warhound raises $200M to engineer war dogs and arm them with Anduril gear",
+      "url": "https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/",
+      "summary": "Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier",
+      "url": "https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/",
+      "summary": "The digital asset unit, helmed by Chris Dixon, broadens its scope.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
+      "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "summary": "Should OpenAI command an over $1 trillion valuation with this round, it would break records as the most highly valued private company ever.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Rivian buys world model startup to accelerate self-driving ambitions",
+      "url": "https://techcrunch.com/2026/10/22/rivian-buys-world-model-startup-to-accelerate-self-driving-ambitions/",
+      "summary": "Third Dimension's technology uses AI to match the physical world, which when combined with Rivian's reams of data could turn into a valuable simulator.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Arc browser sunsets December 22 as The Browser Company doubles down on Dia",
+      "url": "https://techcrunch.com/2026/10/22/arc-browser-sunsets-december-22-as-the-browser-company-doubles-down-on-dia/",
+      "summary": "Arc was fiercely beloved by a dedicated group of enthusiasts, but it never quite became the mass-market Chrome alternative its makers once envisioned.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "The secret to fast startup growth isn’t early sales, top names in tech say",
+      "url": "https://techcrunch.com/2026/10/22/the-secret-to-fast-startup-growth-isnt-early-sales-top-names-in-tech-say/",
+      "summary": "At this year’s Disrupt, Lovable GTM lead Luke Arno, Polsia's Ben Broca, and Theory Ventures’ Tomasz Tunguz gave founders some tips on how to achieve true sales success in the first 90 days.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "1Password launches a way for AI agents to log in on your behalf without seeing your password",
+      "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "summary": "The new feature allows agents to log into a customer's personal accounts while still protecting the private credentials that secure those accounts.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Canva releases its first image generation model",
+      "url": "https://techcrunch.com/2026/10/22/canva-releases-its-first-image-generation-model/",
+      "summary": "Canva is making its new image model available to all users, promising better, more customizable performance at lower costs.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "OpenAI makes its Jev competitor widely available as decision model competition heats up",
+      "url": "https://techcrunch.com/2026/10/22/openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-heats-up/",
+      "summary": "OpenAI is launching its decision model to the world. Can it compete with the original Jev?",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he chases ‘medical superintelligence’",
+      "url": "https://techcrunch.com/2026/10/22/microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he-chases-medical-superintelligence/",
+      "summary": "Microsoft’s new AI diagnostic system beat generalist doctors on hard cases, according to a study in Science. But most of the improvement seems to come from the AI models underneath, not from Microsoft’s system itself.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Former OpenAI science lead launches Warp Science to automate wet labs with robots",
+      "url": "https://techcrunch.com/2026/10/22/former-openai-science-lead-launches-warp-science-to-automate-wet-labs-with-robots/",
+      "summary": "Wearing cameras and sensor gloves, the startup’s human chemists will train robots to perform various lab tasks.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Elon Musk made a $1B investment in Skydance, report says",
+      "url": "https://techcrunch.com/2026/10/22/elon-musk-made-a-1-billion-investment-in-skydance-report-says/",
+      "summary": "The investment will provide a much-needed financial boost as the company seeks to cut costs and lift its stock price.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
+      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "TechCrunch Disrupt 2026 Startup Battlefield 200: Celebrating outstanding achievements",
+      "url": "https://techcrunch.com/2026/10/22/techcrunch-disrupt-2026-startup-battlefield-200-celebrating-outstanding-achievements/",
+      "summary": "Among the Startup Battlefield 200 were many industry-defining companies exhibiting and pitching on the Showcase Stage. Here are the standouts.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Etsy is cracking down on AI slop listings",
+      "url": "https://www.theverge.com/tech/1017261/etsy-ai-rules-policies-restrictions-listing",
+      "summary": "Etsy is announcing stricter rules about how AI can be used in listings to reduce the volume of AI slop on the platform. In a post, the company says that \"many active buyers say they can't tell which items involve AI-generated content\" and that sellers are \"concerned about your work appearing alongsi",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Spotify says yes, it is busting people for using Family Plan sharing too widely",
+      "url": "https://www.theverge.com/entertainment/1017214/spotify-family-plan-sharing-qr-codes",
+      "summary": "Spotify co-CEO Alex Norstr&#246;m confirmed on this week's earnings call that the company is trying to catch Spotify Family plan users who don't actually live together with a new QR code verification method that requires scanning the plan manager's phone. TechCrunch reports that in response to a que",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "The next-gen Xbox won’t cost you $1,800. It can’t. Can it?",
+      "url": "https://www.theverge.com/games/1016134/xbox-helix-price-1800-isnt-affordable-editorial",
+      "summary": "Fortune dropped a bombshell report on the future of gaming this week. According to the publication's Microsoft insiders, the next Xbox is projected to cost between $1,200 and $1,800 when it arrives in 2028. My first reaction: The next Xbox is dead on arrival. It's DOA. My second thought: Microsoft k",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Canva’s first AI image model plans designs before generating them",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
+      "summary": "Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft, uses a two-stage architecture that allows it to plan a design before generating an image, allowing for \"greater precis",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
+      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
+      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-yea",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Fall 2026 earnings watch",
+      "url": "https://www.theverge.com/tech/1016506/fall-2026-earnings-watch",
+      "summary": "Every company is suddenly an AI company. Compute is an asset. Cars are flying. We’ve been promised robots — again. It’s time again to dig through earnings reports, listen to investor calls, and call out the latest wins and losses from around the tech sector and what it means for where the companies ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Meta&#8217;s AI could still scrape news sites, legal experts say",
+      "url": "https://www.theverge.com/tech/1017082/meta-terms-update-ai-training-concerns",
+      "summary": "Meta has tweaked its business terms to remove language suggesting that it could freely train its AI models on news sites, like The Verge - but legal experts say these changes aren't enough to address their concerns. \"This does nothing to restrict the 'associated with your products or services' [lang",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Meta turns Muse sharing back on",
+      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "summary": "Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse pages like a marketing company's internal revenue review and a small business owner's loan application. Researchers at C",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "The FCC is beginning to block gadgets with ‘foreign surveillance chips’",
+      "url": "https://www.theverge.com/policy/1017016/fcc-block-foreign-surveillance-chips-hivision-huawei-loophole",
+      "summary": "On October 13th, Brendan Carr's FCC gave itself a new power - it can block gadgets for containing any computer chip made by any company on its list of potential threats to national security. Today, it's exercising that power for the first time, blocking two gadgets because they contain \"foreign surv",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Sure, let’s smoosh SpaceX and Tesla together, who cares",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1016879/spacex-tesla-cursed-katamari",
+      "summary": "Oh sure, SpaceX's credit risk is pretty high because it's about to borrow another $40 billion to spend on Nvidia chips, but who cares about that? SpaceX and Tesla have formed special committees to discuss a merger! The degree to which you find this merger compelling likely has to do with the degree ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+      "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Comex Gold, Silver Settle Lower",
+      "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+      "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+      "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+      "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+      "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+      "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+      "summary": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Natural Gas Falls on Shifting Weather Forecasts",
+      "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+      "url": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+      "summary": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+      "url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+      "summary": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "What's New This Tax Season That Can Save You Money",
+      "url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+      "summary": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Chinese Investors With Few Options Turn to Dividends",
+      "url": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+      "summary": "Companies with good payouts are now the hottest bet in China markets.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+      "summary": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+      "url": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+      "summary": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+      "url": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+      "summary": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Heard on the Street's Stock-Picking Series",
+      "url": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+      "summary": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "NASA Invites Media to 2026 von Braun Space Exploration Symposium",
+      "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-2026-von-braun-space-exploration-symposium/",
+      "summary": "Members of the media are invited to join NASA at the 2026 von Braun Space Exploration Symposium from Monday, Oct. 26, to Wednesday, Oct. 28, at the University of Alabama in Huntsville. This year’s symposium is focused on humanity&#8217;s return to the Moon, sustainable lunar infrastructure, advanced",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Spiral’s Edge",
+      "url": "https://www.nasa.gov/image-article/spirals-edge/",
+      "summary": "This NASA Hubble Space Telescope image released on Oct. 16, 2026, features the edge-on, intermediate spiral galaxy NGC 1827, located roughly 37 million light-years away in the constellation Columba, the Dove. Hubble captured the image as part of a survey looking at 260 satellite galaxies around 22 M",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "NASA’s Hubble Charts Path for Roman with Gravitational Lenses",
+      "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-charts-path-for-roman-with-gravitational-lenses/",
+      "summary": "This observation is one of many gravitational lensing images taken by Hubble in preparation for science with the new Nancy Grace Roman Space Telescope.",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "APOD: 2026 October 22 – The First Green Star, WD J1330+6435",
+      "url": "https://science.nasa.gov/image-article/apod-2026-october-22-the-first-green-star-wd-j13306435/",
+      "summary": "APOD Science APOD APOD: 2026 October 22 – The… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Fires Char New Guinea",
+      "url": "https://science.nasa.gov/earth/earth-observatory/fires-char-new-guinea/",
+      "summary": "Emissions on both sides of the island are unusually high as human-set fires spread in a landscape parched by drought.",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Faster to Science: A Letter to the Science Community",
+      "url": "https://science.nasa.gov/directorates/smd/faster-to-science-a-letter-to-the-science-community/",
+      "summary": "NASA Science wants to deliver science faster, so we’re changing how we compete and select missions. On Monday, October 26, we will host a virtual NASA Science Town Hall.",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "NASA Conducts RS-25 Engine Test in Support of Future Artemis Missions",
+      "url": "https://www.nasa.gov/image-article/rs-25-engine-test-in-support-of-future-artemis-missions/",
+      "summary": "NASA tested RS-25 engine No. 10001 on Oct. 21 on the Fred Haise Test Stand at NASA’s Stennis Space Center near Bay St. Louis, Mississippi. Test teams fired the developmental engine for almost eight-and-a-half minutes (500 seconds), the same amount of time RS-25 engines fire during launch of NASA’s S",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "NASA JPL Looks to Next 90 Years of Innovation, Exploration",
+      "url": "https://www.nasa.gov/centers-and-facilities/jpl/nasa-jpl-looks-to-next-90-years-of-innovation-exploration/",
+      "summary": "Interstellar probes. Lunar drones. Helicopters on Mars. When a group of Caltech graduate students and enthusiasts began conducting rocket-propulsion tests in Pasadena’s Arroyo Seco on Oct. 31, 1936, they had no idea that their work marked the inception of the Jet Propulsion Laboratory. Ninety years ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "NASA to Conduct NCAA Flyover, Engage Fans at University of Alabama",
+      "url": "https://www.nasa.gov/news-release/nasa-to-conduct-ncaa-flyover-engage-fans-at-university-of-alabama/",
+      "summary": "As part of the agency’s Inspiration Tour, NASA will conduct a flyover at the University of Alabama vs. Texas A&#38;M football game in Tuscaloosa, Alabama, on Saturday, Oct. 24. NASA Administrator Jared Isaacman will pilot one of three F-5 fighter jets during the flyover, highlighting NASA&#8217;s co",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Tracks Along the Longest Drive on Another World",
+      "url": "https://science.nasa.gov/blog/tracks-along-the-longest-drive-on-another-world/",
+      "summary": "Written by Vandi Verma, Chief Engineer for Robotic Operations at NASA’s Jet Propulsion Laboratory Oct. 12, 2026 Since the last blog update, Perseverance has achieved a major milestone on Mars. On Sol 2006 (Oct. 11, 2026), its odometer reached 45.22 kilometers (28.10 miles), setting a new record for ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
+      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
+      "summary": "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco. For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html",
+      "summary": "Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "In the Wake of Riots, the French Authorities Ban Some Protests",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/france-protests-macron.html",
+      "summary": "President Emmanuel Macron said the move was necessary “so that calm prevails.”",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "International Criminal Court Wins E.U.’s Top Human Rights Prize",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/icc-sarkharov-eu-trump-sanctions-human-rights.html",
+      "summary": "The win is a show of support for the International Criminal Court as the Trump administration moves to thwart its work.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Serbian Election Underscores the Region’s Long Political Limbo",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/serbia-elections-nationalist-politics.html",
+      "summary": "Aleksandar Vucic, Serbia’s dominant political figure since 2012, may extend his grip, using the Balkans’ unresolved nationalist resentments.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "PHP Security Flaw Sets Off Global Rush to Patch, Leaving Websites Offline",
+      "url": "https://www.nytimes.com/2026/10/22/world/php-vulnerability-websites-cybersecurity-ai.html",
+      "summary": "Governments and businesses around the world scrambled to prevent hackers from exploiting a vulnerability in PHP, a popular programming language.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "As Typhoon Champi Nears, Taiwan’s Mayors Bet on a Popular Day Off",
+      "url": "https://www.nytimes.com/2026/10/22/world/asia/taiwan-typhoon-champi-mayors.html",
+      "summary": "One expert said the likelihood that a mayor announces closure of work and school because of a typhoon increases 31 percent during an election year.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Space Debris Found Twice Within Days Amid ‘Growing Casualty Risk’",
+      "url": "https://www.nytimes.com/2026/10/22/world/asia/space-debris-indonesia-minnesota.html",
+      "summary": "Debris was found in Indonesia on Monday, just days after a farmer across the globe in Minnesota reported a massive metal object thought to be space junk in a cornfield.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "‘Open War’ Between Afghanistan and Pakistan Adds a Volatile Element",
+      "url": "https://www.nytimes.com/2026/10/22/world/asia/afghanistan-pakistan-proxy-war.html",
+      "summary": "The two sides turn to proxy groups after eight months of a conflict that has taken a heavy toll on civilians.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Protests in Indonesia Demand Action to Stop Rainforest Fires",
+      "url": "https://www.nytimes.com/2026/10/22/world/asia/indonesia-protests-rainforest-haze.html",
+      "summary": "Smoke from the blazes, blamed on destructive agricultural practices, has sickened hundreds of thousands and blanketed neighboring countries.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Archers Mount Their Steeds in Pursuit of Centuries-Old Warrior Spirit",
+      "url": "https://www.nytimes.com/2026/10/22/world/middleeast/horseback-archery-nomad-games.html",
+      "summary": "Horseback archery is making a comeback at a time when modern warfare has become high-tech and impersonal. The sport was featured at the World Nomad Games.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Palestinians Hope Israeli Election Will Oust Netanyahu",
+      "url": "https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html",
+      "summary": "Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "What We Saw at Fast-Track Trials of Riot Suspects in France",
+      "url": "https://www.nytimes.com/2026/10/21/france-riots-court-trials.html",
+      "summary": "At the Tribunal de Paris, judges have supervised a carousel of expedited and often chaotic hearings for those detained during recent unrest.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Drone Strike Kills More Than 150 in Abyei in Sudan’s Civil War",
+      "url": "https://www.nytimes.com/2026/10/21/world/africa/sudan-drone-strikes.html",
+      "summary": "Struggling against each other on the battlefield, the sides in Sudan’s civil war are relying on drones to strike across vast distances, inflicting huge tolls on civilians in the process.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    },
+    {
+      "title": "Above Iran’s Capital, a Trump Impersonator Dances in a Jail Cell",
+      "url": "https://www.nytimes.com/2026/10/22/world/europe/iran-trump-impersonator-billboard.html",
+      "summary": "The Islamic republic has long used billboards in Tehran to mock its opponents and hammer home its messaging, but this piece of performance propaganda is perhaps the most eccentric yet.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-23"
+    }
+  ]
+}
