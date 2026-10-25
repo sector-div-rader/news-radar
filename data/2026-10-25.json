@@ -1,0 +1,558 @@
+{
+  "date": "2026-10-25",
+  "items": [
+    {
+      "title": "Starlink seems to be working normally again in Ukraine",
+      "url": "https://techcrunch.com/2026/10/24/starlink-seems-to-be-working-normally-again-in-ukraine/",
+      "summary": "Elon Musk reportedly ordered SpaceX to throttle Ukraine's Starlink access.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Will AI expose the rickety infrastructure of the internet?",
+      "url": "https://techcrunch.com/2026/10/24/will-ai-expose-the-rickety-infrastructure-of-the-internet/",
+      "summary": "The moment you realize the internet is \"held together by glue and dreams.\"",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "summary": "From Apple's repeatedly delayed Siri AI to OpenAI's messy \"super app\" launch, here's a look at the AI projects that shut down or missed expectations.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+      "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+      "summary": "Instacart might sell itself to a larger competitor.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Block’s new voice model sounds eerily human",
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+      "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+      "summary": "Two critical bugs in the PHP web programming language, used by the majority of the internet, threatened to upend the internet — and it's unlikely to be the last major software scare.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "These clever apps show off the iPhone Duo’s potential",
+      "url": "https://techcrunch.com/2026/10/24/these-clever-apps-show-off-the-iphone-duos-potential/",
+      "summary": "From retro cassette players and virtual notebooks to flight trackers and even a digital toaster, developers are finding creative ways to take advantage of Apple's first foldable iPhone.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "The Boox Palma 2 Pro finally got me to stop reading on my phone",
+      "url": "https://techcrunch.com/2026/10/24/the-boox-palma-2-pro-finally-got-me-to-stop-reading-on-my-phone/",
+      "summary": "The $400 Boox Palma 2 Pro is a smartphone-sized e-reader designed for people who want to read books, articles, and documents on a small E Ink display.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages/",
+      "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Startups don’t need to go viral to win customers",
+      "url": "https://techcrunch.com/2026/10/23/startups-dont-need-to-go-viral-to-win-customers/",
+      "summary": "At TechCrunch Disrupt last week, two founders and a VC discussed how to not just gain an early following but keep one.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell",
+      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
+      "summary": "The robots, stomping their little feet and making tiny R2-D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "VCs, Superhuman Mail founder share red flags about product-market fit",
+      "url": "https://techcrunch.com/2026/10/23/vcs-superhuman-mail-founder-share-red-flags-about-product-market-fit/",
+      "summary": "Top investors from Iconiq and Sapphire Ventures, along with Rahul Vohra, the founder of Superhuman Mail, share the do's and don'ts for building hit products.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "TechCrunch Founder Summit 2026 roundtables: Go deeper on the challenges founders are solving right now",
+      "url": "https://techcrunch.com/2026/10/23/techcrunch-founder-summit-2026-roundtables-go-deeper-on-the-challenges-founders-are-solving-right-now/",
+      "summary": "TechCrunch Founder Summit 2026 is coming to SoWa Power Station in Boston on November 4, bringing founders, investors, and operators together for a full day of candid conversations, practical sessions, live pitching, networking, and smaller roundtables built for deeper discussion.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
+      "summary": "BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, crystal-clear footage that seemed almost too good to be real. But one dead giveaway of AI is when things look too polished ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+      "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly modified or generated by artifi",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Fielded is obsessed with scammers and unhinged Japanese cyberpunk",
+      "url": "https://www.theverge.com/entertainment/1017460/fielded-some-kind-of-animal-interview",
+      "summary": "Lindsay Powell, who releases records under the name Fielded, has spent most of her career subverting expectations and genre conventions. According to their Bandcamp page, Fielded started as an experimental noise project before growing into something closer to R&#38;B. But from moment one, her take o",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "LG’s brilliant C6 OLED TV is already $400 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1017768/lg-c6-oled-tv-early-black-friday-2026-deal-sale",
+      "summary": "Black Friday is still over a month away, but if you&#8217;re hoping to upgrade your TV, you don’t need to wait until November. LG has already kicked off its early Black Friday sale, letting you save on the LG C6 and various soundbars through November 1st. Right now, for instance, you can snag a 55-i",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "What to expect from Apple’s ‘Pro and tell’ event",
+      "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
+      "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for October 28th at 1PM ET in Los ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+      "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+      "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in modern MacBook Pros, RT",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Lee Chang Dong ponders the ethics of the camera",
+      "url": "https://www.theverge.com/entertainment/1017888/possible-love-lee-chang-dong-director-interview",
+      "summary": "Lee Chang Dong's seventh feature film, Possible Love, is inspired by true events from 2009, when a Korean conglomerate fired a third of its staff - 2,600 employees - after which many died by suicide. Possible Love is the latest in a long line of Lee movies that engage with themes of class or labor [",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Laika has spent 20 years building up to Wildwood",
+      "url": "https://www.theverge.com/entertainment/1017740/wildwood-stop-motion-interview-laika",
+      "summary": "Across several decades in Hollywood, Caleb Deschanel has seen a lot. He served as cinematographer on films like The Passion of the Christ and The Patriot, worked on sequences in The Godfather and Titanic, and directed a few episodes of Twin Peaks. Even still, nothing could quite prepare him for his ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "It’s time to find a new browser",
+      "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+      "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading a",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Xbox’s first chief operating officer is out after just a few months",
+      "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
+      "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of Minecraft before being promoted",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+      "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Comex Gold, Silver Settle Lower",
+      "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+      "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+      "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+      "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+      "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+      "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+      "summary": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Natural Gas Falls on Shifting Weather Forecasts",
+      "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+      "url": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+      "summary": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+      "url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+      "summary": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "What's New This Tax Season That Can Save You Money",
+      "url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+      "summary": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Chinese Investors With Few Options Turn to Dividends",
+      "url": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+      "summary": "Companies with good payouts are now the hottest bet in China markets.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+      "summary": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+      "url": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+      "summary": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+      "url": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+      "summary": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Heard on the Street's Stock-Picking Series",
+      "url": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+      "summary": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Elon Musk Says Ukraine Violated Starlink’s Rules",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "summary": "The comments were his first since the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Iranians Face Anxious Wait as Threat of Attack Looms",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/iranians-face-anxious-wait-as-threat-of-attack-looms.html",
+      "summary": "The United States and Israel have drawn up plans to renew strikes against Iran, creating a sense of dread among war-weary residents.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Italy’s Young Protesters Return to the Streets",
+      "url": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots/milan-youth-protests",
+      "summary": "Fed up with the political establishment and rising cost of living, demonstrators hoped to make their message heard after violence overshadowed protests last weekend.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Unrest Erupts Again in France, but This Time, With Less Property Damage",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-protests-unrest-clashes-police.html",
+      "summary": "After largely peaceful marches on Saturday, clashes broke out in the evening. But a large-scale police presence, 1,000 arrests and the rerouting of protest routes kept a lid on wholesale vandalism.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+      "summary": "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable. A man was arrested in connection with the blaze.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Israel Cracks Down in West Bank City After Deadly Attack",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/israel-military-hebron-west-bank.html",
+      "summary": "Hundreds of Palestinian families fled their homes as the Israeli military raided Hebron. The operation came a day after Palestinian gunmen killed two soldiers.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Remains Found in Haiti During Hunt for Missing Salvadoran Soldiers",
+      "url": "https://www.nytimes.com/2026/10/24/world/americas/salvadoran-soldiers-haiti-dead.html",
+      "summary": "El Salvador had sent hundreds of troops to find the four men, who disappeared six days ago. The president of El Salvador denied the bodies were those of his soldiers.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+      "summary": "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom. Now the Trump administration is sending money to Moscow.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Why Is the U.S. Accusing Canada of Election Interference?",
+      "url": "https://www.nytimes.com/2026/10/24/world/canada/us-midterms-election-interference-carney-trump.html",
+      "summary": "The Trump administration says Canadian officials are trying to sway the midterm elections for Democrats. Prime Minister Mark Carney says those claims have “no merit.”",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Violent Protests Resurface in Albania: What to Know",
+      "url": "https://www.nytimes.com/2026/10/17/world/europe/albania-protests-what-to-know.html",
+      "summary": "Thousands have marched in student demonstrations over education, the cost of living, and a project linked to Jared Kushner, President Trump’s son-in-law.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Netanyahu Is Up for Re-election After Years of War. How Will Voters See Him?",
+      "url": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "summary": "The Oct. 7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr. Security. Ahead of elections, he’s trying to sell Israelis on the new, hawkish version of himself.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+      "summary": "Looters ravaged a storied commercial avenue in France’s second-largest city. Its merchants fear that more unrest could follow.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Kim Jong-un Makes First Visit to China in Over a Year",
+      "url": "https://www.nytimes.com/2026/10/24/world/asia/north-korea-kim-jong-un-china.html",
+      "summary": "The North Korean leader crossed the border on a newly opened bridge for the trip, as the two countries move to deepen ties.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
+      "url": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
+      "summary": "The Trump administration wants a public victory soon, as well as a potential path to U.S. military forces in Mexico.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-10-25"
+    },
+    {
+      "title": "Paris, Battened Down Against Riots, Offers Lonely Welcome to Visitors",
+      "url": "https://www.nytimes.com/2026/10/24/world/europe/paris-riots-tourism.html",
+      "summary": "Americans on hand for the N.F.L.’s first-ever game in France found famous museums closed and shops boarded up.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-10-25"
+    }
+  ]
+}
