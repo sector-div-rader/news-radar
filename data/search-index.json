@@ -7200,5 +7200,357 @@
     "keywords": [],
     "url": "https://www.nytimes.com/2026/11/01/world/africa/joseph-lagu-sudan-dead.html",
     "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Apple may try to increase revenue by doing…something with third-party AI apps",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/apple-may-try-to-increase-revenue-by-doing-something-with-third-party-ai-apps/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Ukraine’s new pocket-sized gadget turns Russian drones’ cameras against them",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/ukraines-new-pocket-sized-gadget-turns-russian-drones-cameras-against-them/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Y Combinator’s Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Hinge tests a cheaper plan as users become more fed up paying for dating apps",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/02/hinge-tests-a-cheaper-plan-as-users-become-more-fed-up-paying-for-dating-apps/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Apple says it’s ‘hard to predict’ when iPhone Duo constraints will improve",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/apple-says-its-hard-to-predict-when-iphone-duo-constraints-will-improve/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Trajectory raises $45M to make AI model training accessible to nontechnical experts",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-experts/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Apple’s inventory surges 154% as memory chip costs climb",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/apples-inventory-surges-154-as-memory-chip-costs-climb/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Anthropic warns that it’s very close to RSI capability, aka self-building AI",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/anthropic-warns-that-its-very-close-to-rsi-capability-aka-self-building-ai/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Germany says lawmakers’ iPhones may have been hacked with spyware",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/02/germany-says-lawmakers-iphones-may-have-been-hacked-with-spyware/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Web host Squarespace lays off 19% of its employees",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/web-host-squarespace-lays-off-19-of-its-employees/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "New York Times and other outlets sue web browser Brave over alleged content scraping",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/02/new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scraping/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Snap settles lawsuit accusing platform of fueling teen depression and eating disorders",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/snap-settles-lawsuit-accusing-platform-of-fueling-teen-depression-and-eating-disorders/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "In one of the largest deals in tech history, Marvell buys Lumentum for $115B",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/02/in-one-of-the-largest-deals-in-tech-history-marvell-buys-lumentum-for-115b/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Readwise takes on Amazon’s Kindle and Goodreads with its new app for book lovers",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/02/readwise-takes-on-amazons-kindle-and-goodreads-with-its-new-app-for-book-lovers/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Apple is ‘not able to predict’ when it&#8217;ll have enough iPhone Duos to go around",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/tech/1024915/apple-iphone-duo-supply-chain-constraints",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Apple set an iPhone sales record even without a new standard iPhone",
+    "keywords": [],
+    "url": "https://www.theverge.com/tech/1024748/apple-q4-2026-iphone-sales-earnings",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Meta will end Quest 2 OS updates in 2027",
+    "keywords": [],
+    "url": "https://www.theverge.com/tech/1024835/meta-vr-quest-2-pro-os-end-updates",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
+    "keywords": [],
+    "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "BMW is taking on Tesla’s FSD with urban driver assist starting in 2027",
+    "keywords": [],
+    "url": "https://www.theverge.com/transportation/1024616/bmw-level-2-city-driver-assist-2027",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "The Apple Watch Ultra 4 is $100 off, matching its best price to date",
+    "keywords": [],
+    "url": "https://www.theverge.com/gadgets/1024416/apple-watch-ultra-4-ugreen-finetrack-2-bluetooth-tracker-deal-sale",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Ford promises not to sell your driving habits to data brokers",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/transportation/1024386/ford-customer-driving-data-privacy-promise-data-brokers",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Anthropic clamps down on Claude’s AI video game clones",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Xbox&#8217;s former COO has ‘serious concerns’ about her abrupt departure",
+    "keywords": [],
+    "url": "https://www.theverge.com/news/1024649/xbox-chief-operating-officer-helen-chiang-depature-comments",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "OpenAI pitches data center power plants as a way to protect nearby areas",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1024604/openai-data-center-grid-protection-program",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Happy 65 Years: NASA’s Johnson Space Center Then and Now",
+    "keywords": [],
+    "url": "https://www.nasa.gov/centers-and-facilities/johnson/happy-65-years-nasas-johnson-space-center-then-and-now/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "TB 26-09 Measured Hammer-Tap Inputs",
+    "keywords": [],
+    "url": "https://www.nasa.gov/centers-and-facilities/nesc/tb-26-09-measured-hammer-tap-inputs/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "NASA’s CHAPEA Crew “Returns” to Earth",
+    "keywords": [],
+    "url": "https://www.nasa.gov/image-article/nasas-chapea-crew-returns-to-earth/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "What’s Up: November 2026 Skywatching Tips from NASA",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://science.nasa.gov/solar-system/skywatching/whats-up-november-2026-skywatching-tips-from-nasa/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "NASA Invites Media to Northrop Grumman CRS-25 Station Resupply Launch",
+    "keywords": [],
+    "url": "https://www.nasa.gov/news-release/nasa-invites-media-to-northrop-grumman-crs-25-station-resupply-launch/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "NASA’s Hubble Uncovers Case of Missing Oxygen in Nearby Dwarf Galaxies",
+    "keywords": [],
+    "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-uncovers-case-of-missing-oxygen-in-nearby-dwarf-galaxies/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "APOD: 2026 November 2 – A Long Cloud on Mars",
+    "keywords": [],
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Pennsylvania’s Grand Canyon",
+    "keywords": [],
+    "url": "https://science.nasa.gov/earth/earth-observatory/pennsylvanias-grand-canyon/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Russian Strike on Ukraine Humanitarian Hub Kills Dozens",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/02/world/europe/russian-strike-zaporizhzhia-ukraine.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Why Orban and Vucic Broke With Trump on Election Denial",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Russia Senses Opportunity in Polish Political Turmoil",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/02/world/europe/russia-polish-political-turmoil.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Trump Removes South Africa From the African Growth and Opportunity Act Trade Program",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/02/world/africa/trump-south-africa-trade-program-agoa.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Netanyahu and Eisenkot Seek Shot to Be Israel’s Premier",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/02/world/middleeast/israel-election-prime-minister.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "King Charles Meets Both Joy and Criticism on Caribbean Tour",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Up in the Clouds With the Pope, It’s Still Commercial",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/02/world/europe/pope-plane-shepherd-one-flights.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "China’s Message to Its Rivals: You Need What We Make",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "‘This Hour Has 22 Minutes,’ a Canadian Sketch Show, Beats American Late Night to the Punchline",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/02/world/canada/this-hour-has-22-minutes-trump-carney.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-03",
+    "title": "Odyssey ‘Endless Cruise’ Ship Stranded in Cambodia May Be Headed for Auction Block",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/02/travel/odyssey-cruise-ship-cambodia-auction.html",
+    "category": "時事"
   }
 ]
