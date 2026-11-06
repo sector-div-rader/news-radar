@@ -1,0 +1,662 @@
+{
+  "date": "2026-11-06",
+  "items": [
+    {
+      "title": "The New York Times reportedly in talks to buy Letterboxd for $330 million",
+      "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+      "summary": "Letterboxd, an online platform for movie lovers, has grown dramatically in recent years.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Meta, Google, and TikTok sue California AG over teen social media law",
+      "url": "https://techcrunch.com/2026/11/05/meta-google-and-tiktok-sue-california-ag-over-teen-social-media-law/",
+      "summary": "If it goes into effect next year, this California law would restrict social media access for children under 16.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
+      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027/",
+      "summary": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Serve Robotics launches new business to become the AWS for robots",
+      "url": "https://techcrunch.com/2026/11/05/serve-robotics-launches-new-business-to-become-the-aws-for-robots/",
+      "summary": "Serve Robotics announced alonsgside its third-quarter earnings that it will launch a new business line called Physical AI Services to offer customers its connectivity and data tools.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Meta says US users can now video chat with their Muse AI avatar",
+      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
+      "summary": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Meta warns that election backlash against data centers could make AI expansion harder",
+      "url": "https://techcrunch.com/2026/11/05/metas-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-harder/",
+      "summary": "Meta warns that growing political opposition to data centers could threaten future AI investments, as communities push back against massive infrastructure projects.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "OpenAI released a new cybersecurity model. Is that enough?",
+      "url": "https://techcrunch.com/2026/11/05/openai-released-a-new-cybersecurity-model-is-that-enough/",
+      "summary": "OpenAI's newest cybersecurity model comes out as AI labs face scrutiny of their work to protect digital infrastructure.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+      "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+      "summary": "A joint U.S. government statement says the hacks are affecting the food, transportation, and healthcare industries after reports of global mass hacks.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "OpenAI president Greg Brockman says company could be IPO ready in 2027",
+      "url": "https://techcrunch.com/2026/11/05/openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027/",
+      "summary": "Speaking at a Wall Street Journal tech conference on Wednesday, the executive touted how the company had been gaining ground in the enterprise market, where rival Anthropic had already successfully made inroads.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The ex-Secret Service agent who flipped a hacker is now raising a second $250M cybersecurity fund",
+      "url": "https://techcrunch.com/2026/11/05/the-ex-secret-service-agent-who-flipped-a-hacker-is-now-raising-a-second-250m-cybersecurity-fund/",
+      "summary": "Stephen Ward, a former Secret Service agent and Home Depot CISO, is preparing a second fund of roughly $250 million for Brightmind Partners.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Claude can now analyze your spending with its new Personal Finance tool",
+      "url": "https://techcrunch.com/2026/11/05/claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool/",
+      "summary": "With Personal Finance in Claude, users can connect their bank and card accounts through Plaid and ask questions about their finances.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Harbinger raises $240M after expanding into defense",
+      "url": "https://techcrunch.com/2026/11/05/harbinger-raises-240m-after-expanding-into-defense/",
+      "summary": "The Los Angeles-based startup has now raised more than $650 million, and is working on electric trucks, emergency vehicles, and a driverless platform for the military.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Food delivery startup Wonder files for IPO as it explores its next big bite",
+      "url": "https://techcrunch.com/2026/11/05/food-delivery-startup-wonder-files-for-ipo-as-it-explores-its-next-big-bite/",
+      "summary": "Following years of fundraising, acquisitions, and expansion, food delivery startup Wonder is moving closer to becoming a publicly traded company.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics/",
+      "summary": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bluesky hit peak usage for the year on election night",
+      "url": "https://techcrunch.com/2026/11/05/bluesky-hit-peak-usage-for-the-year-on-election-night/",
+      "summary": "Bluesky CEO Toni Schneider said posts and likes doubled during to the U.S. midterm elections on Tuesday.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "OpenAI is stepping back from NDAs for data center projects",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda",
+      "summary": "Following this week's midterms where voters resoundingly voiced their opposition to data center expansion, OpenAI today announced new commitments to communities where it is working on data center projects, including that it won't use non-disclosure agreements (NDAs) with public officials. Many data ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Airbnb is working on an AI travel agent",
+      "url": "https://www.theverge.com/tech/1028412/airbnb-ai-travel-agent-q3-2026-earnings",
+      "summary": "Airbnb plans to roll out an AI agent in the first half of 2027 that will help users plan and book travel, the company said in its Q3 2026 earnings shareholder letter released today. \"Today's AI agents are good at simple, routine tasks, like making a restaurant reservation or scheduling an appointmen",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The New York Times is in talks to buy Letterboxd for around $330 million",
+      "url": "https://www.theverge.com/news/1028375/the-new-york-times-letterboxd-acquisition-report",
+      "summary": "The New York Times Company is in talks\"exclusive negotations\" to acquire Letterboxd, the social network for film lovers, for around $330 million, The New York Times reports. The Times Company, Sony Pictures Entertainment, and A24 were all recently rumored to be among those interested in buying Lette",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "T-Mobile owner on Elon Musk launching a wireless carrier: &#8216;Welcome to the party&#8217;",
+      "url": "https://www.theverge.com/tech/1028346/t-mobile-deutsche-telecom-spacex-starlink-mobile",
+      "summary": "The head of T-Mobile's parent company is casting doubt on SpaceX's plans to make Starlink Mobile a \"major\" carrier in the US. During an earnings call on Thursday, Deutsche Telekom CEO Tim H&#246;ttges says he takes the Elon Musk-owned company \"super serious,\" but that it will cost at least $200 bill",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Perplexity launches its own take on AI agents for work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work",
+      "summary": "Perplexity is taking on OpenAI and Anthropic with its own work-focused AI agents. The startup's new always-on \"Teammates\" can take on multiple roles within a workspace, while pulling existing projects, skills, and memory from the Perplexity tools you already use. Teammates integrate with Perplexity ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Salon is shutting down after 31 years",
+      "url": "https://www.theverge.com/news/1028281/salon-dot-com-shuts-down",
+      "summary": "Salon launched 31 years ago as one of the first online-only news magazine outlets, and it announced today in an unsigned post that it's ceasing publication. The company said that the \"business realities of independent digital journalism have changed profoundly over the years,\" and it decided that it",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The midterms proved once and for all that X is not real life",
+      "url": "https://www.theverge.com/policy/1028253/midterm-elections-x-right-wing-memes",
+      "summary": "A week before the midterm elections, Vice President JD Vance hosted a town hall in Texas with Fox News host Jesse Watters. It was a friendly event with a friendly audience in what should have been a friendly state, and maybe that's why Vance couldn't help himself. When a college student earnestly as",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Blue Origin’s next launch now won’t happen until 2027",
+      "url": "https://www.theverge.com/science/1028178/blue-origins-next-launch-now-wont-happen-until-2027",
+      "summary": "Blue Origin plans to do its next New Glenn rocket launch in January 2027, according to CNBC and the Financial Times, which cite a memo from CEO Dave Limp sent to staff. The new timeline follows a May launchpad explosion that damaged Blue Origin's New Glenn launchpad ahead of a flight that would have",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Samsung’s Galaxy Z Fold 8 is $300 off ahead of Black Friday",
+      "url": "https://www.theverge.com/gadgets/1027659/samsung-galaxy-z-fold-8-beats-pill-deal-sale",
+      "summary": "Android fans with a bit of iPhone Duo envy, take note: The Samsung Galaxy Z Fold 8 is discounted to $1,599.99 at both Amazon and Best Buy, a hefty $300 markdown from its usual price, and just $50 higher than the lowest we’ve seen. Considering the device only launched a few months ago, you’re saving ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Muse has a voice mode now",
+      "url": "https://www.theverge.com/tech/1028015/meta-muse-ai-voice-mode-expressive-avatar",
+      "summary": "Meta now lets you have voice conversations with your Muse AI agent in real time, CEO Mark Zuckerberg announced today. The feature has been rolled out to me, and I gave it a spin on the iOS app while writing this article. As you chat with your Muse agent, the avatar at the top of [&#8230;]",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+      "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Comex Gold, Silver Settle Lower",
+      "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+      "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+      "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+      "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+      "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+      "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+      "summary": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Natural Gas Falls on Shifting Weather Forecasts",
+      "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+      "url": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+      "summary": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+      "url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+      "summary": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "What's New This Tax Season That Can Save You Money",
+      "url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+      "summary": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Chinese Investors With Few Options Turn to Dividends",
+      "url": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+      "summary": "Companies with good payouts are now the hottest bet in China markets.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+      "summary": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+      "url": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+      "summary": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+      "url": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+      "summary": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Heard on the Street's Stock-Picking Series",
+      "url": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+      "summary": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Midwestern City Lights",
+      "url": "https://www.nasa.gov/image-article/midwestern-city-lights/",
+      "summary": "City lights from the Midwestern United States to the East Coast sparkle across the landscape a couple of hours before sunrise on Oct. 18, 2026. Major urban areas visible in the photograph include Chicago, Illinois; Detroit, Michigan; and the New York metropolitan region. The International Space Stat",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "NASA Astronauts to Answer Questions from Florida Students",
+      "url": "https://www.nasa.gov/learning-resources/nasa-astronauts-to-answer-questions-from-florida-students-2/",
+      "summary": "Students in Florida will hear from NASA astronauts Jessica Watkins and Luke Delaney as they answer prerecorded STEM questions while aboard the&#160;International Space Station. The Earth-to-space call will begin at 10:40 a.m. EST Tuesday, Nov. 10, and will stream live on the agency’s&#160;Learn With",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Hubble Learns Galactic History From Stars",
+      "url": "https://science.nasa.gov/missions/hubble/hubble-learns-galactic-history-from-stars/",
+      "summary": "This Hubble image features the sparkling collection of stars named Messier 30 (M30), also called NGC 7099.",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "APOD: 2026 November 5 – Enceladus in Silhouette",
+      "url": "https://science.nasa.gov/image-article/apod-2026-november-5-enceladus-in-silhouette/",
+      "summary": "APOD Science APOD APOD: 2026 November 5 –… Today’s APOD Archive Submissions Index Search Calendar RSS Education About Discuss   APOD Astronomy Picture of the Day Discover the cosmos! Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation writ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Cyprus: Island of Snakes, Cats, and Ophiolites",
+      "url": "https://science.nasa.gov/earth/earth-observatory/cyprus-island-of-snakes-cats-and-ophiolites/",
+      "summary": "The third-largest island in the Mediterranean Sea exposes an ancient piece of the ocean floor and hosts a clowder of cats.",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "NASA Announces X-70 Experimental Aircraft to Advance Flight Research",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-x-70-experimental-aircraft-to-advance-flight-research/",
+      "summary": "On Wednesday, NASA unveiled its newest experimental aircraft, the X-70 Fractal, during the UP.Summit at the agency’s Kennedy Space Center in Florida. This high-performance, highly adaptable research platform is designed to accelerate the development and testing of advanced aviation technologies.&#16",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "NASA Shares Plans to Accelerate Artemis, Return to Moon",
+      "url": "https://www.nasa.gov/missions/artemis/nasa-shares-plans-to-accelerate-artemis-return-to-moon/",
+      "summary": "In an update on Oct. 23, NASA Administrator Jared Isaacman and other agency leaders shared the agency’s path to returning Americans to the lunar surface in 2028. Agency leadership provided updates on the previously announced acceleration plans for the Artemis program, advancing toward the agency’s A",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "NASA Announces Ka-Band Satellite Relay Awards for Space Communications",
+      "url": "https://www.nasa.gov/news-release/nasa-announces-ka-band-satellite-relay-awards-for-space-communications/",
+      "summary": "NASA selected three companies on Wednesday to perform work to develop Ka-band space relay capability concepts that are compatible with current missions in space, ensuring service continuity for existing spacecraft without requiring modifications to their onboard systems. Through this work, NASA will",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "NASA Navigation Experiment Shows Promise for Planetary Landings",
+      "url": "https://www.nasa.gov/centers-and-facilities/armstrong/nasa-navigation-experiment-shows-promise-for-planetary-landings/",
+      "summary": "NASA successfully demonstrated technology designed to help spacecraft autonomously navigate to safe landing sites on the Moon and on other planets. An Alta-X drone equipped with the agency’s Safe and Precise Landing – Integrated Capabilities Evolution (SPLICE) guidance, navigation, and control paylo",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "NASA Space Grant Students Fuel Agency’s Inspiration Tour",
+      "url": "https://www.nasa.gov/learning-resources/nasa-space-grant-students-fuel-agencys-inspiration-tour/",
+      "summary": "NASA’s Inspiration Tour spread the excitement of space exploration and aeronautical innovation by connecting the public, industry, and academia with the people, technologies, and organizations that drive American leadership in space. At nearly every stop across the country, NASA Space Grant has brou",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "How Did Flávio Bolsonaro Flee Brazil? ‘I’ll Take That to the Grave,’ He Says",
+      "url": "https://www.nytimes.com/2026/11/05/world/americas/flavio-bolsonaro-florida-brazil.html",
+      "summary": "From Miami, Flávio Bolsonaro is making unfounded claims of a stolen election and plotting to sway his nation’s politics from afar, even though his party is not challenging the results.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bolsonaro’s Escape From Brazil Was Aided by Milei Adviser at Argentine Airport",
+      "url": "https://www.nytimes.com/2026/11/05/world/americas/bolsonaro-escape-brazil-milei-adviser-argentina.html",
+      "summary": "A top adviser to President Javier Milei of Argentina met Flávio Bolsonaro, the defeated Brazilian presidential candidate, at an Argentine airport, three people involved in the operation said.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Iran is Reviewing ‘Concrete Proposals’ on Nuclear Program, Officials Say",
+      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/peace-talks-iran-united-states-qatar-nuclear-program.html",
+      "summary": "Iran’s willingness to re-engage on the issue suggests that Qatar-led diplomatic efforts to avert full-blown war between the U.S. and Iran have had some success.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bomb Threats Disrupt European Flights and Rattle Passengers",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-airline-passengers.html",
+      "summary": "Passengers recounted landing at a military base and being subjected to security checks and travel delays after threats that turned out to be hoaxes affected planes in Italy, Poland and Spain.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Lana Nusseibeh’s U.N. Bid Collides With U.A.E.’s Role in Sudan",
+      "url": "https://www.nytimes.com/2026/11/05/world/africa/lana-nusseibeh-united-nations-uae-sudan.html",
+      "summary": "Lana Nusseibeh, one of the Gulf nation’s top diplomats, has led the effort to deny her country’s role in Sudan. Now it’s complicating her bid to become secretary general of the United Nations.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "How Melania Trump Became a Dark-Horse Diplomat on Ukraine",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "summary": "Both Moscow and Kyiv say Mrs. Trump’s team was the driving force behind an evacuation of a besieged city. It was also in their interest to deliver her a humanitarian win.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+      "url": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+      "summary": "The Israeli leader and his allies are alleging that Arab voters last month stole the election. Election officials say that while foul play was being investigated, it could not have affected the result.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "American Is Convicted of Murder in Case That Gripped Italy",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/italy-american-murder-case.html",
+      "summary": "A TV program helped to identify the victims, a Russian woman and her young daughter, who were found dead in a Rome park.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
+      "url": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
+      "summary": "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "What to Know About the Bomb Threats Disrupting Flights in Europe",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/bomb-threats-europe-flights-airlines.html",
+      "summary": "More than two dozen planes that were targeted on Thursday landed safely, officials said, after similar threats earlier this week. The hoaxes have added to airspace anxiety in the region.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
+      "url": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
+      "summary": "Labels exert extraordinary control over performers because only a few acts turn a profit.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "British Citizen Infected With Ebola in Congo to Be Evacuated to UK, BBC Reports",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/british-ebola-case-congo-uk.html",
+      "summary": "The government said the risk to the British public from the disease was low. The current outbreak in Africa has spread widely across the continent, killing more than 5,000 people.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+      "url": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+      "summary": "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Paraguay’s President, Santiago Peña, Quits Amid Ueno Bank Scandal",
+      "url": "https://www.nytimes.com/2026/11/05/world/americas/paraguay-santiago-pena-resigns.html",
+      "summary": "The president of the South American nation, Santiago Peña, has apologized for failing to prevent its worst financial crisis in decades.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-06"
+    },
+    {
+      "title": "Carney Asserts Canada’s Sovereignty and Vows to End Homelessness in Budget",
+      "url": "https://www.nytimes.com/2026/11/05/world/canada/carney-sovereignty-federal-budget-trade.html",
+      "summary": "The prime minister’s second budget repeatedly stresses diversifying Canada’s economy away from the United States.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-06"
+    }
+  ]
+}
