@@ -1,0 +1,654 @@
+{
+  "date": "2026-11-10",
+  "items": [
+    {
+      "title": "California’s proposed ‘billionaire tax’ fails to pass",
+      "url": "https://techcrunch.com/2026/11/09/californias-proposed-billionaire-tax-fails-to-pass/",
+      "summary": "California voters rejected Proposition 40, the one-time 5% tax on billionaires, the AP reported Monday. Tech leaders outspent backers roughly 10 to 1 to defeat it, and the founders and economists TechCrunch interviewed before the vote were split on whether it would have driven out wealthy residents ",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Jensen Huang’s alleged honeypot scandal has inspired some top-notch memes",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-alleged-honeypot-scandal-has-inspired-some-top-notch-memes/",
+      "summary": "The internet is having a field day with Nvidia's Jensen Huang's alleged honeypot scandal.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "summary": "The AI company is expected to set its valuation range this week, the Wall Street Journal reported.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profile sex scandals a year ago",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profile-sex-scandals-a-year-ago/",
+      "summary": "The PR firm was enlisted shortly after an October 2025 New York Times report described Alice Huang's business dealings with Jensen Huang, Wired reported.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Hotel giant Wyndham exposed customer data after app security lapse",
+      "url": "https://techcrunch.com/2026/11/09/hotel-giant-wyndham-exposed-customer-data-after-app-security-lapse/",
+      "summary": "Exclusive: Wyndham left a hardcoded credential in its customer app, allowing anyone to access customer data. The hotel giant wouldn't say if it has the ability to check for any past unauthorized access.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "A short seller flagged Nvidia CEO’s ties to a suspected Chinese spy six months before the scandal",
+      "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/",
+      "summary": "Six months before Nvidia's spy scandal erupted, Culper Research was already questioning Jensen Huang's unusually close relationship with a Chinese executive.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "The race is on to sue Nvidia",
+      "url": "https://techcrunch.com/2026/11/09/the-race-is-on-to-sue-nvidia/",
+      "summary": "Nvidia’s stock slid more than 4% after its board opened an investigation into Jensen Huang’s relationship with a suspected Chinese spy, and one securities law expert says the company’s earlier insistence that it was all “normal” could turn into a very expensive problem.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Fervo now has $12B in orders for its geothermal power tech",
+      "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+      "summary": "Geothermal company Fervo is targeting natural gas as it brings down geothermal drilling costs at its 8.4 GW resource in Utah.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/",
+      "summary": "The Nvidia CEO also pulled out of an Anthropic event earlier.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "YouTube streaming data returns to Billboard charts, ending major disagreement",
+      "url": "https://techcrunch.com/2026/11/09/youtube-streaming-data-returns-to-billboard-charts-ending-major-disagreement/",
+      "summary": "YouTube will resume sharing streaming data with Billboard in 2027 after changes to the chart formula give more weight to free, ad-supported music streams.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Anthropic releases new Mythos and Fable models amid RSI concerns",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns/",
+      "summary": "Anthropic says the new models \"show improvements in areas like coding, reasoning, and vision,\" as well as in communicating more clearly with users.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "AI hardware startup Nominal triples valuation to $3B in 8 months",
+      "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+      "summary": "Nominal, a startup that offers an AI platform for hardware engineering and claims Anduril as a major customer, has raised another big round of financing that triples its valuation.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "France blames Iran for mass-hacks targeting freezers in grocery stores and blood banks",
+      "url": "https://techcrunch.com/2026/11/09/france-blames-iran-for-mass-hacks-targeting-freezers-in-grocery-stores-and-blood-banks/",
+      "summary": "France's foreign minister blamed Iran for launching at least two waves of cyberattacks targeting industrial refrigerated and freezer units across France and wider Europe.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions under scrutiny",
+      "url": "https://techcrunch.com/2026/11/09/jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under-scrutiny/",
+      "summary": "Jensen Huang’s alleged affair with a suspected Chinese spy threatens to complicate Nvidia’s lobbying efforts to loosen U.S. chip export restrictions and maintain access to China’s lucrative AI market.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
+      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
+      "summary": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
+      "category": "科技",
+      "source": "TechCrunch",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "summary": "During Paramount Skydance's latest earnings call, CEO David Ellison said \"it's hard to imagine\" AI won't have a bigger impact on the film industry than CGI. In response to a question about the company's outlook for AI, Ellison said: \"I think when you zoom out and look at production, AI really has th",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "What could China get from Jensen Huang?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030328/what-could-china-get-from-jensen-huang",
+      "summary": "It's difficult to overstate Nvidia's power in today's AI landscape. The company's chips are the bedrock upon which advanced AI technology in the US is being built, and demand has consistently outpaced supply for years. Nvidia has also been an influential investor in a wide range of up-and-coming AI ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Here’s what Trump said he knew about Jensen Huang",
+      "url": "https://www.theverge.com/tech/1030446/trump-jensen-huang-press-conference",
+      "summary": "President Trump held a White House press briefing earlier today and responded to several questions about his knowledge of Nvidia CEO Jensen Huang's affair with an alleged Chinese spy. Huang said this weekend that he had been \"&#8203;&#8203;unfaithful\" to his wife, and the company has opened an inves",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Everything we know so far about the Nvidia spy scandal targeting CEO Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
+      "summary": "The leather-jacketed CEO of Nvidia, Jensen Huang, has acknowledged an affair with Megaspeed exec Alice Huang, spurring an investigation by his company and intense discussions worldwide. Recent reporting noted that since last year, US intelligence reports had identified Alice Huang (no relation) as n",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "MSI’s refurbished QD-OLED gaming monitor is on sale for under $300",
+      "url": "https://www.theverge.com/gadgets/1030262/msi-mag-272qp-qd-oled-x24-monitor-woot-deal-sale",
+      "summary": "One of the best upgrades you can make to your PC gaming setup is an OLED monitor. Fortunately, MSI’s factory-reconditioned Mag 272QP X24 is on sale at Woot through November 18th with a 180-day manufacturer warranty for $290.99, which is more than $100 cheaper than the full MSRP of $399.99. MSI’s 27-",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "The global pledge to use AI for climate good is a cruel joke",
+      "url": "https://www.theverge.com/science/1030252/ai-data-center-climate-pledge-united-nations-cop31",
+      "summary": "At this point, reading through the latest splashy pledge to use AI for the good of the environment feels like downing a nonalcoholic beer. Admittedly, I'm suspicious from the onset. How can this be good? But I love beer and our planet enough to give it a whirl - and hey, why not try a [&#8230;]",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Apple’s $50 Intelligence Usage Packs extend access to some AI features",
+      "url": "https://www.theverge.com/tech/1030084/apple-intelligence-usage-packs-ai-features-creator-studio-logic-pro",
+      "summary": "After publishing a support article in early September outlining usage limits for some Apple Intelligence features, the company has updated Logic Pro with an option to \"Buy More Usage\" for a one-time purchase price of $49.99, as spotted by 9to5Mac. It has a built-in AI assistant to do things like \"st",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Anthropic launches new Claude Fable and Mythos 5.2 models",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2",
+      "summary": "Anthropic is announcing two new models today: Claude Fable 5.2 and Claude Mythos 5.2, which it says are designed to take on \"daunting\" technical challenges. The company claims the new models show improvements in coding, reasoning, and vision, and can generate outputs faster than the 5.1 versions of ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "You can grab three months of Game Pass Ultimate for under $20 per month",
+      "url": "https://www.theverge.com/gadgets/1029998/game-pass-ultimate-three-months-lego-pokemon-pikachu-deal-sale",
+      "summary": "The price of Xbox Game Pass Ultimate has fluctuated between $20 and $30 per month over the last year, but you can get three months of the top plan for around $19 per month. At Newegg, using the coupon code BNWF2656 at checkout knocks $11 off the usual cost of a three-month subscription. That brings ",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Instagram’s Effect Builder makes new filters from AI prompts",
+      "url": "https://www.theverge.com/tech/1030061/instagram-ai-effect-builder-filters",
+      "summary": "After expanding its Edits app to macOS last week, Instagram's next move is launching this Effect Builder that generates custom filters for your Stories posts with AI. Available now for US residents who are over 18, it has a prompt box for describing your filter idea to the chatbot, with an option to",
+      "category": "科技",
+      "source": "The Verge",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+      "url": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+      "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Comex Gold, Silver Settle Lower",
+      "url": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+      "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "DeepSeek Won't Sink U.S. AI Titans",
+      "url": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+      "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Financial Services Roundup: Market Talk",
+      "url": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+      "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+      "url": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+      "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+      "url": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+      "summary": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Natural Gas Falls on Shifting Weather Forecasts",
+      "url": "https://www.wsj.com/articles/u-s-natural-gas-futures-fall-on-shifting-weather-forecasts-1ef3e457?mod=rss_markets_main",
+      "summary": "U.S. natural gas futures fell after weekend updates took some of the chill out of early February weather forecasts.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Building-Products Distributor QXO Launches Hostile Bid for Beacon",
+      "url": "https://www.wsj.com/articles/building-products-distributor-qxo-launching-hostile-bid-for-beacon-de024410?mod=rss_markets_main",
+      "summary": "QXO is taking its offer directly to shareholders after being rebuffed on several occasions.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Natural-Gas Firm Diversified Energy Strikes Deal for Permian Basin Player",
+      "url": "https://www.wsj.com/articles/natural-gas-firm-diversified-energy-nears-deal-for-permian-basin-player-4c1c5ff5?mod=rss_markets_main",
+      "summary": "Maverick Natural Resources has operations in Texas and Oklahoma.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "What's New This Tax Season That Can Save You Money",
+      "url": "https://www.wsj.com/articles/tax-season-2024-irs-filing-dates-explained-628a8b37?mod=rss_markets_main",
+      "summary": "There are some new wrinkles, especially for those who sell things online or bought an EV.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Chinese Investors With Few Options Turn to Dividends",
+      "url": "https://www.wsj.com/articles/chinese-investors-with-few-options-turn-to-dividends-ad31dcc4?mod=rss_markets_main",
+      "summary": "Companies with good payouts are now the hottest bet in China markets.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "U.S. Treasury Yields Fall But Direction for Long-End Yields Still Seen Upward",
+      "url": "https://www.wsj.com/articles/jgbs-consolidate-supported-by-u-s-treasurys-gains-7edccc7d?mod=rss_markets_main",
+      "summary": "The 10-year U.S. Treasury yield fell and ING said the the long end of the Treasury curve will continue trading at higher yields even as Trump hasn’t delivered anything to shock markets so far.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Russia's Crude Exports Fairly Stable Despite U.S. Sanctions, Goldman Says",
+      "url": "https://www.wsj.com/articles/oil-futures-fall-after-trump-calls-for-tariffs-on-colombia-5b2a178c?mod=rss_markets_main",
+      "summary": "Oil edged lower in early trade as Goldman Sachs said the latest round of U.S. sanctions against Russia haven’t had a significant impact on the country’s oil exports.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "The Extra Reward for Owning Stocks Over Bonds Has Disappeared",
+      "url": "https://www.wsj.com/articles/the-extra-reward-for-owning-stocks-over-bonds-has-disappeared-c3f9c223?mod=rss_markets_main",
+      "summary": "There is little sign of crimped demand for equities among individual investors, who remain bullish after two years of blockbuster gains.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Heard on the Street's Stock-Picking Series",
+      "url": "https://www.wsj.com/articles/heard-on-the-streets-stock-picking-series-98f04640?mod=rss_markets_main",
+      "summary": "Check out the stocks Heard on the Street writers favor in their eighth annual stock-picking contest.",
+      "category": "商業",
+      "source": "WSJ.com: Markets",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Curiosity Blog, Sols 5056-5062: Charging Back Up!",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5056-5062-charging-back-up/",
+      "summary": "By Remington Free, Operations Systems Engineer, NASA-JPL Earth planning date: Friday, Oct. 30, 2026 Today’s plan covered 3 sols, 5060, 5061, and 5062, as we take a few recharging sols before getting back to our normal drilling activities. As you may know if you have been following the blog closely, ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Curiosity Blog, Sols 5050-5055: It’s Nazca, Our 49th Drill Hole",
+      "url": "https://science.nasa.gov/blog/curiosity-blog-sols-5050-5055-its-nazca-our-49th-drill-hole/",
+      "summary": "Written by Susanne P. Schwenzer, Professor of Planetary Mineralogy at The Open University, UK Earth planning date: Friday, Oct. 23, 2026 As regular readers of this blog will know, we returned to the area where we found disc shaped inclusions in the rocks, which we interpreted as potential crystals. ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Rubies on Mars?",
+      "url": "https://science.nasa.gov/blog/rubies-on-mars/",
+      "summary": "Written by Roger C. Wiens, SuperCam Principal Investigator for NASA’s Perseverance rover at Purdue University Nov. 4, 2026 Exploration on Mars turns up the unexpected. Perseverance is equipped with a fantastic set of instruments for studying the rock record of this ancient planet. Both PIXL and Supe",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Newest Sample, Oldest Rock?",
+      "url": "https://science.nasa.gov/blog/newest-sample-oldest-rock/",
+      "summary": "Written by Tasha Coelho, Mastcam-Z Student Collaborator at Arizona State University Nov. 1, 2026 Perseverance’s most recent abrasion “Pumbe” bears a striking resemblance to an earlier abrasion, “Badger Peak.” That’s no coincidence. As previously reported, that rock had a hardness too high to core. H",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "La NASA busca a la próxima generación de astronautas",
+      "url": "https://www.nasa.gov/news-release/la-nasa-busca-a-la-proxima-generacion-de-astronautas/",
+      "summary": "Read this release in English here.La NASA busca a los exploradores que ayudarán a escribir el próximo capítulo de los vuelos espaciales tripulados. Ya está abierto el plazo de inscripción para la próxima promoción de astronautas de la agencia, que se incorporarán a la NASA en un momento en el que Es",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "NASA’s Chandra Finds Source of Star’s Mysterious Outbursts",
+      "url": "https://science.nasa.gov/missions/chandra/nasas-chandra-finds-source-of-stars-mysterious-outbursts/",
+      "summary": "Using NASA’s Chandra X-ray Observatory, astronomers have discovered what is triggering repeated outbursts from a giant, unstable star. A new study, published Monday in the latest issue of The Astrophysical Journal, details the discovery of a previously hidden companion object that keeps pulling mate",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "NASA Advanced Mid-Power Electric Rocket Challenge",
+      "url": "https://www.nasa.gov/directorates/stmd/prizes-challenges-crowdsourcing-program/center-of-excellence-for-collaborative-innovation-coeci/nasa-advanced-mid-power-electric-rocket-challenge/",
+      "summary": "Mid-power (3-7 kW) Hall effect thruster systems have been identified by government and industry stakeholders as critical capabilities for satellite, defense, and exploration missions. Given the need for this capability, NASA is launching the Advanced Mid-Power Electric Rocket (AMPERE) Challenge. The",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "La NASA destina un millón de dólares al reto estudiantil Base Lunar",
+      "url": "https://www.nasa.gov/news-release/la-nasa-destina-un-millon-de-dolares-al-reto-estudiantil-base-lunar/",
+      "summary": "Read this release in English here.El domingo 8 de noviembre de 2026, la NASA anunció la convocatoria del reto estudiantil Base Lunar, dotado con un millón de dólares, durante un acto de MAX POWER celebrado en el Complejo de Visitantes del Centro Espacial Kennedy, en Florida. En el marco de una edad ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Astronauts Across Generations Share the Stage",
+      "url": "https://www.nasa.gov/image-article/astronauts-across-generations-share-the-stage/",
+      "summary": "On Nov. 6, 2026, Purpose Entertainment hosted the Artemis Celebration Gala at NASA&#8217;s Kennedy Space Center Visitor Complex in Merritt Island, Florida. Held on the eve of NASA&#8217;s MAX POWER event, the gala celebrated the explorers, innovators, and visionaries advancing the next era of human ",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "MAX POWER: NASA’s Inaugural Aerospace Expo Ignites America’s Future",
+      "url": "https://www.nasa.gov/general/max-power-nasas-inaugural-aerospace-expo-ignites-americas-future/",
+      "summary": "Thousands gathered over several days in early November to experience MAX POWER – NASA’s first exhibition of America’s superiority in space, aeronautics, and technology on and around the agency’s Kennedy Space Center in Florida. The multi-day, family-friendly event honored the nation’s 250th annivers",
+      "category": "宇宙",
+      "source": "NASA",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Shipwreck Off Senegal Kills Dozens as Canary Islands Declare Migrant Emergency",
+      "url": "https://www.nytimes.com/2026/11/09/world/africa/senegal-migrant-boat-capsize-europe.html",
+      "summary": "Migrant arrivals to Europe are down overall but still claiming scores of victims, overwhelming local officials and dominating political debate.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "France Blames Iran for Cyberattack on Refrigeration Systems",
+      "url": "https://www.nytimes.com/2026/11/09/world/europe/france-iran-refrigerators-cyberattack.html",
+      "summary": "The French foreign minister said he had summoned the Iranian ambassador to France after a cyberattack on hundreds of supermarkets last month. Iran did not immediately respond.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Mass Killing in Poland Becomes Cause for a Political Fight",
+      "url": "https://www.nytimes.com/2026/11/09/world/europe/poland-mass-shooting-krakow-politics.html",
+      "summary": "The government blames the far right for inspiring the gunman, while the opposition accuses the government of lax security.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Immigrants Are Being Systematically Returned Home Despite Court Orders",
+      "url": "https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html",
+      "summary": "Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Ukraine Peace Talks Resume This Week in Abu Dhabi",
+      "url": "https://www.nytimes.com/2026/11/09/world/europe/ukraine-russia-peace-talks.html",
+      "summary": "U.S.-led talks to end the war between Russia and Ukraine will resume this week in Abu Dhabi. A cease-fire won’t be on the table.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Germans Miss Merkel, Their Old Chancellor, Though They Dislike Her Policies",
+      "url": "https://www.nytimes.com/2026/11/09/world/europe/germans-angela-merkel-portrait.html",
+      "summary": "Crowds have flocked to the stern, but reassuring, face of Angela Merkel in her official portrait, even as a backlash to her legacy roils German politics.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "A Country’s President Led to a Bank’s Stunning Rise, and Its Fall",
+      "url": "https://www.nytimes.com/2026/11/09/world/americas/paraguay-bank-president-ueno.html",
+      "summary": "Prosecutors accused President Santiago Peña of Paraguay of funneling nearly a billion dollars of government funds to the Ueno bank as its executives made reckless insider loans.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "In Argentina, Pope Leo Tells President Milei Economy Must Serve the Needy",
+      "url": "https://www.nytimes.com/2026/11/08/world/americas/pope-leo-argentina-milei.html",
+      "summary": "The pontiff’s trip comes amid tensions between the country’s libertarian leader and its Catholic Church, which is deeply committed to social justice.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Reeling From Rare Mass Shooting, Poles Ask What Set Off Young Suspect",
+      "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-shooting-suspect-family.html",
+      "summary": "Officials say that a 24-year-old killed his family and then six people during a rampage in Krakow. Now they are trying to determine the motive.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Suspect in Mass Shooting in Krakow, Poland, Dies in Hospital. Here’s What to Know.",
+      "url": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "summary": "At least nine people were dead after shootings in Krakow and another town. The suspected gunman died in the hospital and his motive remains unclear.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Targeted by U.S., Armed Group Strikes Back in Colombia",
+      "url": "https://www.nytimes.com/2026/11/08/world/americas/colombia-drone-attack-eln.html",
+      "summary": "American forces are helping Colombia and Venezuela hunt the ELN. This weekend, the group attacked a Colombian military base with drones, officials said.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Trains Collide Near Cairo, Killing 4",
+      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/egypt-train-collision-al-ayyat-district.html",
+      "summary": "The crash between two passenger trains was the latest in a history of deadly rail accidents in Egypt, despite billions spent modernizing the network.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "url": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+      "summary": "The Saudi authorities said no one was hurt after “falling shrapnel” hit the building in Riyadh’s financial district — one of the highest-profile areas targeted by the Houthis.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "China’s Trade Surplus Passes $1 Trillion at Record Pace",
+      "url": "https://www.nytimes.com/2026/11/09/business/china-trade-surplus-trillion.html",
+      "summary": "China’s factories are finding eager buyers worldwide, but the export boom is raising concerns about its impact on trading partner nations.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    },
+    {
+      "title": "The Nvidia Affair",
+      "url": "https://www.nytimes.com/2026/11/09/world/nvidia-affair-jensen-huang-russell-brand.html",
+      "summary": "An illicit relationship between the C.E.O. and an alleged Chinese spy is putting the spotlight on a murky ecosystem of companies smuggling A.I. chips into China.",
+      "category": "時事",
+      "source": "NYT > World News",
+      "keywords": [
+        "AI"
+      ],
+      "date": "2026-11-10"
+    }
+  ]
+}
