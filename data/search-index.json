@@ -11447,5 +11447,389 @@
     "keywords": [],
     "url": "https://www.nytimes.com/2026/11/15/world/americas/felix-gallardo-mexico-dead.html",
     "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Cyber giant Infoblox confirms security incident after hackers access ‘company information’",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/cyber-giant-infoblox-confirms-security-incident-after-hackers-access-company-information/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "All the questions Nvidia should answer on Tuesday — but probably won’t",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/16/all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/apple-reveals-new-mac-security-controls-as-ai-agents-raise-privacy-risks/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "California state AG sues OpenAI over rogue agent incidents",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/california-state-ag-sues-openai-over-rogue-agent-incidents/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Uber says hackers stole information on close to 150,000 driver’s licenses during data breach",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/uber-confirms-hackers-stole-thousands-of-drivers-license-information-in-data-breach/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Apple adds ‘face unlock’ to the iPhone Duo, but it’s not Face ID",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/16/apple-adds-face-unlock-to-the-iphone-duo-but-its-not-face-id/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Trump says ex-Nvidia CEO Jensen Huang’s affair with an alleged Chinese spy did not threaten national security",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/trump-says-ex-nvidia-ceo-jensen-huangs-affair-with-an-alleged-chinese-spy-did-not-threaten-national-security/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Island is a new screen-time app that turns staying off your phone into a game",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/16/island-is-a-new-screen-time-app-that-turns-staying-off-your-phone-into-a-game/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Tesla goes all-in on the Cybercab with upcoming €3B Berlin gigafactory expansion",
+    "keywords": [],
+    "url": "https://techcrunch.com/2026/11/16/tesla-goes-all-in-on-the-cybercab-with-upcoming-e3b-berlin-gigafactory-expansion/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Sam Altman on Nvidia without Jensen Huang: The industry will be ‘fine’",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-fine/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "FBI says Artex AI open source hacking tool used to breach networks in ‘under three hours’",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the ‘Wolf of Wall Street’",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-wolf-of-wall-street/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "OpenAI will embed safety researchers to investigate AI subversion",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/openai-will-embed-apollo-researchers-to-investigate-ai-subversion/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://techcrunch.com/2026/11/16/openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam/",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Hacker behind 2022 GTA VI leaks pleads guilty",
+    "keywords": [],
+    "url": "https://www.theverge.com/games/1035087/gta-vi-leaks-2022-hacker-pleads-guilty-arion-kurtaj",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "United Airlines system outage disrupts departures just days after the big ground stop",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/transportation/1035025/united-airlines-outage-down-departures",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "In Get Huge, the manosphere is here to make friends — with deadly consequences",
+    "keywords": [],
+    "url": "https://www.theverge.com/entertainment/1033466/hulu-disney-plus-get-huge-looksmaxxing-to-death",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Some of our favorite PlayStation games are steeply discounted for Black Friday",
+    "keywords": [],
+    "url": "https://www.theverge.com/gadgets/1034339/sony-black-friday-game-sale-2026-deals",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Big Nuclear isn’t worried about the Democrats stopping data centers",
+    "keywords": [],
+    "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "US data centers now burn more electricity than a midsized country",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "The Apple Watch Series 12 is cheaper than ever ahead of Black Friday",
+    "keywords": [],
+    "url": "https://www.theverge.com/gadgets/1034512/apple-watch-series-12-black-friday-deal-sale",
+    "category": "科技"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Perseverance Update: The Ghostly Rocks of ‘Idubi’ — Bright Remnants of Aqueous Systems from Long Ago",
+    "keywords": [],
+    "url": "https://science.nasa.gov/blog/perseverance-update-the-ghostly-rocks-of-idubi-bright-remnants-of-aqueous-systems-from-long-ago/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "A Collage Showing 49 Drill Holes Made by NASA’s Curiosity Mars Rover",
+    "keywords": [],
+    "url": "https://science.nasa.gov/photojournal/a-collage-showing-49-drill-holes-made-by-nasas-curiosity-mars-rover/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "NASA Receives 16th Consecutive ‘Clean’ Financial Audit Opinion",
+    "keywords": [],
+    "url": "https://www.nasa.gov/news-release/nasa-receives-16th-consecutive-clean-financial-audit-opinion/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Sentinel-6B in Orbit Around Earth",
+    "keywords": [],
+    "url": "https://science.nasa.gov/photojournal/sentinel-6b-in-orbit-around-earth/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Thunderbirds in Formation",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nasa.gov/image-article/thunderbirds-in-formation/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Contractor to Civil Servant: NASA Welcomes Jim Mirandy",
+    "keywords": [],
+    "url": "https://www.nasa.gov/centers-and-facilities/stennis/contractor-to-civil-servant-jim-mirandy/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "APOD: 2026 November 16 – NGC 7129: Star Formation with Jets from Webb",
+    "keywords": [],
+    "url": "https://science.nasa.gov/image-article/apod-2026-november-16-ngc-7129-star-formation-with-jets-from-webb/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "The Last Ice on Puncak Jaya",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://science.nasa.gov/earth/earth-observatory/the-last-ice-on-puncak-jaya/",
+    "category": "宇宙"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Austria May Strip Former Foreign Minister Karin Kneissl of Citizenship",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/austria-karin-kneissl-citizenship.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "10 Numbers That Might Change How You See Asia",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/16/world/asia/asean-trade-security-technology.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Five European Countries Plan to Deport Migrants to Rwanda",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/deport-rwanda-asylum-migration.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "U.N. Starts Uncertain Effort to Regulate Lethal Autonomous Weapons",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/un-killer-robots-autonomous-weapons.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Winter Nightmare Looms Early in Ukraine as Russia Strikes Relentlessly",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/russia-ukraine-winter-campaign.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Trump’s Asia Trip Will Bring Him to the Table With Xi and Putin: What to Know",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/16/world/asia/trump-asia-china-xi-putin.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "South Korea to Examine How K-Pop Industry Treats Underage Performers",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/16/world/asia/kpop-underage-idols-survey.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "They Defeated a Strongman. But Can They Run a Country?",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/16/world/europe/serbia-students-vucic-election.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Searching for the Last Stoats of Waiheke Island",
+    "keywords": [
+      "AI"
+    ],
+    "url": "https://www.nytimes.com/2026/11/16/world/australia/new-zealand-stoats.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "They’re Young, Frustrated and Want France to Change. They Disagree on How.",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
+    "category": "時事"
+  },
+  {
+    "date": "2026-11-17",
+    "title": "Trump Will Miss Most of the ASEAN Summit",
+    "keywords": [],
+    "url": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+    "category": "時事"
   }
 ]
